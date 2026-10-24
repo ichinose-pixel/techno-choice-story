@@ -1,0 +1,1 @@
+window.STORY_CONFIG={brand:'テクノストラクチャー',logoUrl:'',consultUrl:'https://panasonic.co.jp/phs/pasd/support/',catalogUrl:'https://panasonic.co.jp/phs/pasd/support/',casesUrl:'https://panasonic.co.jp/phs/pasd/pb-techno/technohouse/',onEvent:null};
